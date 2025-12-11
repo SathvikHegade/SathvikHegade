@@ -37,14 +37,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikHegade&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
 ### ✉️ Connect With Me
 - 📧 Email: [sathvikhegade3@gmail.com](mailto:sathvikhegade3@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/sathvik-hegade-76112b330](https://www.linkedin.com/in/sathvik-hegade-76112b330/)  
