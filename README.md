@@ -33,7 +33,7 @@
 | Project | Description | Tech Stack |
 | --- | --- | --- |
 | [SecureNote](https://secure-pad-pro-15.onrender.com) | Secure note-taking with public/private modes, AI summaries, Cloudinary uploads, auto-delete | Node.js, Express, PostgreSQL, Gemini AI, Cloudinary |
-| [Project Placeholder](https://github.com/SathvikHegade) | Add your next project here | Tech stack |
+
 
 ---
 
