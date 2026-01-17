@@ -1,6 +1,6 @@
-# Hi, I'm T S Sathvik Hegade 👋
+﻿# Hi, I'm T S Sathvik Hegade 
 
-**Engineering student at BMS Institute of Technology and Management** · **Aspiring Machine Learning Engineer** · **C++ & Python Programmer**
+**Engineering student at BMS Institute of Technology and Management**  **Aspiring Machine Learning Engineer**  **C++ & Python Programmer**
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Building+Intelligent+Software" alt="Typing SVG" />
@@ -8,18 +8,18 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🌱 Exploring advanced **machine learning**, **deep learning**, and **AI-driven applications**
-- 🧮 Passionate about writing **efficient, secure software** in C++ and Python
-- 🌐 Building **full-stack applications** with React, TypeScript, and Node.js
-- 🔐 Creator of **SecureNote**—secure note-taking with AI summaries and auto-expiring data
-- ⚡ Creator of **DataForge**—enterprise-grade data cleaning & ML preprocessing platform
-- 🎯 **Goal**: Build impactful products where AI meets real-world problem solving
+-  Exploring advanced **machine learning**, **deep learning**, and **AI-driven applications**
+-  Passionate about writing **efficient, secure software** in C++ and Python
+-  Building **full-stack applications** with React, TypeScript, and Node.js
+-  Creator of **SecureNote**—secure note-taking with AI summaries and auto-expiring data
+-  Creator of **DataForge**—enterprise-grade data cleaning & ML preprocessing platform
+-  **Goal**: Build impactful products where AI meets real-world problem solving
 
 ---
 
-## 🧠 Core Skills
+##  Core Skills
 
 | Category | Technologies |
 |----------|-------------|
@@ -31,28 +31,33 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**DataForge**](https://github.com/SathvikHegade/DataForge) | 🔥 Enterprise-grade data cleaning platform with intelligent outlier detection (IQR/Z-Score), fuzzy duplicate removal, ML preprocessing pipelines, and one-click export | React, TypeScript, Tailwind CSS, Vite |
-| [**SecureNote**](https://github.com/SathvikHegade/SecureNote) | 🔐 Secure note-taking with public/private modes, AI-powered summaries, Cloudinary uploads, and auto-delete functionality | Node.js, Express, PostgreSQL, Gemini AI, Cloudinary |
+| [**DataForge**](https://github.com/SathvikHegade/DataForge) |  Enterprise-grade data cleaning platform with intelligent outlier detection (IQR/Z-Score), fuzzy duplicate removal, ML preprocessing pipelines, and one-click export | React, TypeScript, Tailwind CSS, Vite |
+| [**SecureNote**](https://github.com/SathvikHegade/SecureNote) |  Secure note-taking with public/private modes, AI-powered summaries, Cloudinary uploads, and auto-delete functionality | Node.js, Express, PostgreSQL, Gemini AI, Cloudinary |
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/SathvikHegade">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SathvikHegade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikHegade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=SathvikHegade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
 
-## ✉️ Connect With Me
+##  Connect With Me
 
 <p align="center">
   <a href="mailto:sathvikhegade3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
