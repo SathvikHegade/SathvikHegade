@@ -1,45 +1,70 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm T S Sathvik Hegade 👋</h1>
-<p align="center">
-  Engineering student at BMS Institute of Technology and Management · Aspiring Machine Learning Engineer · C++ & Python Programmer
-</p>
+# Hi, I'm T S Sathvik Hegade 👋
+
+**Engineering student at BMS Institute of Technology and Management** · **Aspiring Machine Learning Engineer** · **C++ & Python Programmer**
 
 <p align="center">
-  <a href="mailto:sathvikhegade3@gmail.com"><img src="https://img.shields.io/badge/Email-sathvikhegade3%40gmail.com-red?style=for-the-badge"></a>
-  <a href="https://www.linkedin.com/in/sathvik-hegade-76112b330/"><img src="https://img.shields.io/badge/LinkedIn-T%20S%20Sathvik%20Hegade-0A66C2?style=for-the-badge"></a>
-  <a href="https://github.com/SathvikHegade"><img src="https://img.shields.io/badge/GitHub-SathvikHegade-181717?style=for-the-badge"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&center=true&vCenter=true&width=435&lines=Machine+Learning+Engineer;Full-Stack+Developer;Data+Science+Enthusiast;Building+Intelligent+Software" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
-- 🌱 Exploring advanced machine learning, deep learning, and AI-driven apps  
-- 🧮 Passionate about writing efficient, secure software in **C++** and **Python**  
-- 🌐 Learning full-stack development to deliver end-to-end solutions  
-- 🔐 Creator of SecureNote—secure note-taking with AI summaries and auto-expiring data  
-- 🎯 Goal: build impactful products where AI meets real-world problem solving  
+## 🚀 About Me
+
+- 🌱 Exploring advanced **machine learning**, **deep learning**, and **AI-driven applications**
+- 🧮 Passionate about writing **efficient, secure software** in C++ and Python
+- 🌐 Building **full-stack applications** with React, TypeScript, and Node.js
+- 🔐 Creator of **SecureNote**—secure note-taking with AI summaries and auto-expiring data
+- ⚡ Creator of **DataForge**—enterprise-grade data cleaning & ML preprocessing platform
+- 🎯 **Goal**: Build impactful products where AI meets real-world problem solving
 
 ---
 
-### 🧠 Core Skills
-- **Languages:** Python, C++  
-- **AI / ML:** TensorFlow, scikit-learn, Pandas, NumPy  
-- **Data / Backend:** PostgreSQL, REST APIs, Node.js, Express  
-- **Tools:** Git, GitHub, Render, Railway, Cloudinary, Postman  
+## 🧠 Core Skills
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, C++, TypeScript, JavaScript |
+| **AI / ML** | TensorFlow, scikit-learn, Pandas, NumPy |
+| **Frontend** | React, Tailwind CSS, Vite, shadcn/ui |
+| **Data / Backend** | PostgreSQL, REST APIs, Node.js, Express |
+| **Tools** | Git, GitHub, Render, Railway, Cloudinary, Postman |
 
 ---
 
-### 📌 Featured Projects
+## 📌 Featured Projects
+
 | Project | Description | Tech Stack |
-| --- | --- | --- |
-| [SecureNote](https://secure-pad-pro-15.onrender.com) | Secure note-taking with public/private modes, AI summaries, Cloudinary uploads, auto-delete | Node.js, Express, PostgreSQL, Gemini AI, Cloudinary |
-
+|---------|-------------|------------|
+| [**DataForge**](https://github.com/SathvikHegade/DataForge) | 🔥 Enterprise-grade data cleaning platform with intelligent outlier detection (IQR/Z-Score), fuzzy duplicate removal, ML preprocessing pipelines, and one-click export | React, TypeScript, Tailwind CSS, Vite |
+| [**SecureNote**](https://github.com/SathvikHegade/SecureNote) | 🔐 Secure note-taking with public/private modes, AI-powered summaries, Cloudinary uploads, and auto-delete functionality | Node.js, Express, PostgreSQL, Gemini AI, Cloudinary |
 
 ---
 
-### ✉️ Connect With Me
-- 📧 Email: [sathvikhegade3@gmail.com](mailto:sathvikhegade3@gmail.com)  
-- 💼 LinkedIn: [linkedin.com/in/sathvik-hegade-76112b330](https://www.linkedin.com/in/sathvik-hegade-76112b330/)  
-- 🌐 Portfolio: coming soon!  
+## 📊 GitHub Stats
 
-> _“Turning data into decisions and ideas into secure, intelligent software.”_
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikHegade&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## ✉️ Connect With Me
+
+<p align="center">
+  <a href="mailto:sathvikhegade3@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/sathvik-hegade-76112b330"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning data into decisions and ideas into secure, intelligent software."</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SathvikHegade&color=6366f1&style=flat-square" alt="Profile Views" />
+</p>
