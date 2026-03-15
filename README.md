@@ -2,7 +2,7 @@
 
 # Hey there, I'm T S Sathvik Hegade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-**Software Engineer with a strong foundation in Machine Learning, backend systems, and production-grade deployment.**
+**Aspiring Software Engineer with a strong foundation in Machine Learning, backend systems, and production-grade deployment.**
 
 **Engineering student at BMS Institute of Technology and Management**
 
