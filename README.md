@@ -1,8 +1,8 @@
-<div align="center">
+﻿<div align="center">
 
 # Hey there, I'm T S Sathvik Hegade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-**Aspiring Software Engineer with a strong foundation in Machine Learning, backend systems, and production-grade deployment.**
+**Software Engineer with a strong foundation in Machine Learning, backend systems, and production-grade deployment.**
 
 **Engineering student at BMS Institute of Technology and Management**
 
@@ -32,8 +32,8 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 
 - 🔬 Building production-oriented **machine learning** and **AI-driven applications**
 - 🛡️ Passionate about writing **efficient, secure software** in C++ and Python
-- ⚡ Developing scalable backend systems and full-stack applications with React, TypeScript, FastAPI, and Node.js
-- 🏗️ Creator of **InsurePredict** — ML insurance premium predictor with FastAPI + Streamlit
+- ⚡ Developing scalable backend systems and production-ready ML applications with FastAPI and Python
+- 🏗️ Creator of **InsurePredict** — ML insurance premium predictor with FastAPI
 - 🏗️ Creator of **SecureNote** — secure note-taking with AI summaries and auto-expiring data
 - 🏗️ Creator of **DataForge** — enterprise-grade data cleaning & ML preprocessing platform
 - 🎯 **Goal**: Design scalable AI-powered systems that solve real-world problems through production-ready software engineering.
@@ -82,11 +82,11 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 
 | Category | Technologies |
 |:--------:|:------------|
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) |
 | **AI / ML** | ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) |
-| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) |
-| **DevOps / Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Python UI** | ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white) |
+| **DevOps / Tools** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
 
 </div>
 
@@ -128,7 +128,7 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 - One-click export of ML-ready datasets
 - Stat validation & visual data profiling
 
-`React` `TypeScript` `Tailwind CSS` `Vite`
+`Python` `Pandas` `NumPy` `scikit-learn`
 
 </td>
 </tr>
@@ -141,10 +141,10 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 - Public/private notes with bcrypt authentication
 - Google Gemini AI-powered document summaries
 - Cloudinary file uploads (PDF, JPG, PNG, DOCX)
-- Auto-save, dark mode, real-time security logging
+- Auto-save and real-time security logging
 - [**Live Demo →**](https://secure-pad-pro-15.onrender.com)
 
-`Node.js` `Express` `PostgreSQL` `Gemini AI` `Cloudinary`
+`PostgreSQL` `Gemini AI` `Cloudinary`
 
 </td>
 <td width="50%">
@@ -170,7 +170,7 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 | Capability | Details |
 |:----------:|:--------|
 | **Containerization** | Dockerized ML APIs with multi-service compose |
-| **Backend Services** | RESTful APIs built with FastAPI & Express |
+| **Backend Services** | RESTful APIs built with FastAPI |
 | **Cloud Deployment** | Publicly deployed production-ready applications on Render |
 | **Configuration** | Environment-variable-based setup (`.env` driven) |
 | **Architecture** | Structured, modular project architecture designed for production scale |
