@@ -1,4 +1,4 @@
-﻿<div align="center">
+<div align="center">
 
 # Hey there, I'm T S Sathvik Hegade <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
@@ -71,6 +71,8 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 <a href="https://github.com/SathvikHegade/DataForge"><img src="https://img.shields.io/badge/⚒️_DataForge-Data_Platform-6366f1?style=for-the-badge" alt="DataForge" /></a>
 <a href="https://github.com/SathvikHegade/Secure_Note"><img src="https://img.shields.io/badge/🔒_SecureNote-Secure_Notes-0ea5e9?style=for-the-badge" alt="SecureNote" /></a>
 <a href="https://github.com/SathvikHegade/ML-PROJECTS"><img src="https://img.shields.io/badge/🧠_ML_Projects-Learning_Hub-10b981?style=for-the-badge" alt="ML Projects" /></a>
+<a href="https://github.com/SathvikHegade/Project_Pragya"><img src="https://img.shields.io/badge/🔬_Project_Pragya-Virtual_Lab-eab308?style=for-the-badge" alt="Project Pragya" /></a>
+<a href="https://github.com/SathvikHegade/food_delivary_backend"><img src="https://img.shields.io/badge/🍔_Food_Delivery-Backend_API-f97316?style=for-the-badge" alt="Food Delivery Backend" /></a>
 
 </div>
 
@@ -161,7 +163,40 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 
 </td>
 </tr>
+<tr>
+<td width="50%">
+
+### 🔬 [Project Pragya](https://github.com/SathvikHegade/Project_Pragya)
+> Browser-based virtual science lab for hands-on STEM experiments
+
+- Brings interactive physics/chemistry/biology experiments to students without access to physical labs
+- Simulated lab environment runnable entirely in the browser
+- [**Live Demo →**](https://project-pragya-ui.onrender.com/)
+
+`JavaScript`
+
+</td>
+<td width="50%">
+
+### 🍔 [Food Delivery Backend](https://github.com/SathvikHegade/food_delivary_backend)
+> Backend API service for a food delivery application
+
+- Core order, menu, and delivery workflow endpoints
+- Built as a standalone Python backend service
+
+`Python`
+
+</td>
+</tr>
 </table>
+
+<details>
+<summary><b>📁 More repositories</b></summary>
+<br>
+
+- **[Data_Visualization_ON_WordTrade_Stat](https://github.com/SathvikHegade/Data_Visualization_ON_WordTrade_Stat)** — Jupyter notebook exploring and visualizing world trade statistics `Jupyter Notebook`
+
+</details>
 
 ---
 
@@ -206,7 +241,7 @@ fun_fact: I Dockerize everything — even my side projects ship production-ready
 <div align="center">
 
 <a href="https://github.com/SathvikHegade">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SathvikHegade&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SathvikHegade&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 </a>
 
